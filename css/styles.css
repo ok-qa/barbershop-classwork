@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+}
+
+/*
+.header {
+}
+
+.header-nav {
+}
+
+.header-logo {
+}
+
+.header-item {
+}
+*/
+
+.header-list {
+  list-style: none;
+}
+
+.body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.header-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.header-tel {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.header-btn {
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 1.33;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
